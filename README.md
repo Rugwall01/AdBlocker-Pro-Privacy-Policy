@@ -3,7 +3,7 @@ Privacy Policy for chrome web extension AdBlocker Pro
 
 Privacy Policy for AdBlocker Pro
 
-Last Updated: [Date]
+Last Updated: 10/10/2024
 
 At AdBlocker Pro, your privacy is our top priority. This privacy policy explains our practices concerning any data that may be collected through our extension.
 
