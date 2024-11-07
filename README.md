@@ -29,4 +29,4 @@ As our services evolve, we may update this privacy policy to reflect new practic
 6. Contact Us
 If you have any questions or concerns about this privacy policy or how AdBlocker Pro handles your information, please contact us at:
 
-Email: support@adblockerpro.com
+Email: support.adblockerpro.com@protonmail.com
